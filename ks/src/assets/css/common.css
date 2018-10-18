@@ -1,0 +1,21 @@
+html,body{height:100%;
+    background: #fff;
+}
+
+#root,.App{height:100%;}
+.am-tab-bar-bar{
+    background: #000;
+}
+.am-tabs-tab-bar-wrap{
+    background: #000;
+}
+.am-tab-bar-tab-icon svg{fill:rgb(145, 133, 133);}
+.selected svg{fill:#2a972a;}
+
+.slider-slide img{width:100%;}
+.am-tab-bar-item{
+    height: 0;
+}
+element.style{
+    background: #ccc;
+}
